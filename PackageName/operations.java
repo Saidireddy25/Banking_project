@@ -3,8 +3,9 @@ package PackageName;
 import java.util.*;
 
 public class operations {
-    operations() {
 
+    // Constructor
+    operations() {
     }
 
     List<Bank> bankList = new ArrayList<>();
